@@ -1,5 +1,5 @@
 # windmousego
-Go Version of the WindMouse library
+Implementation of WindMouse in Golang
 
 ## Installation
 
